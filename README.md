@@ -4,8 +4,10 @@ Github Page for the Tool Library 3d printing initative.
 - Extendable site that other tool libraries can build on
 
 #1 Rule for this site: The simpler the better.
-Stack: HTML, CSS, JS, Bootstrap
+Stack: HTMLX, CSS, JS, Bootstrap, 
 External Intergration: Google Sheets
+Design Tool: Figma | https://www.figma.com/team_invite/redeem/PsNoeidTBvCidOCFWYYbqw
+Design Guide Online:  https://toollibrary3dprinting.github.io/design
 
 Find more information about the University Heights Tool Library in Buffalo, NY here:
 https://thetoollibrary.org/
